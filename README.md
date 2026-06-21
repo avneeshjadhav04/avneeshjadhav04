@@ -2,7 +2,6 @@
 
 <!-- Header -->
 <h1 align="center">Hi, I'm Avneesh</h1>
-<p align="center">AI Engineer · Pune, Maharashtra, India</p>
 
 <br/><br/>
 
