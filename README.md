@@ -1,7 +1,34 @@
 <div align="center">
 
-<!-- Header -->
-<h1 align="center">Hi, I'm Avneesh</h1>
+Hi, I'm Avneesh.
+
+<br/><br/>
+
+My Background:
+
+<br/>
+
+I have foundations in computer science (Python, JavaScript, Rust, AI, ML, C++, Java, DSA, etc.).
+
+<br/><br/>
+
+Technology has always fascinated me from the start. From opening up toys as a child, to dissecting complex projects these days, it's always interesting to see how things work.
+
+<br/><br/>
+
+In college, theory was good, but there came a point where I shifted from studying text to actually engineering solutions.
+
+<br/><br/>
+
+Which brings me to date. Currently, I'm focused on AI implementation.
+
+<br/><br/>
+
+P.S.
+
+<br/>
+
+Don't just connect, send me what you're building at the moment. I read every message.
 
 <br/><br/>
 
@@ -27,7 +54,7 @@
 <!-- Tech Stack -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,js,ts,html,css,react,pytorch,tensorflow,github,googlecloud,docker,githubactions,postgres,sqlite,linux,windows&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,rust,js,ts,html,css,cpp,java,react,pytorch,tensorflow,github,googlecloud,docker,githubactions,postgres,sqlite,linux,windows&theme=dark" alt="Tech Stack" />
 
 </div>
 
