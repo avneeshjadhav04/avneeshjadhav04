@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:0ea5e9,100:1f2937&height=180&section=header&text=Hi%2C%20I'm%20Avneesh%20%E2%9A%A1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Pune%2C%20Maharashtra%2C%20India&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" alt="Header banner" />
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Building+AI-driven+applications;Working+with+Python+%E2%80%A2+Rust+%E2%80%A2+TypeScript;Ship+fast%2C+ship+reliable;Open+to+collaboration" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=400&height=40&lines=Building..." alt="Typing SVG" />
 
 <!-- Social Badges -->
 <a href="https://github.com/avneeshjadhav04"><img src="https://img.shields.io/badge/GitHub-avneeshjadhav04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
