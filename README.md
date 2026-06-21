@@ -21,27 +21,7 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=🛠️+Tech+Stack" width="180" alt="Tech Stack heading" />
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript&theme=dark" alt="Languages" />
-
-<br/><br/>
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend" />
-
-<br/><br/>
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Databases" />
-
-<br/><br/>
-
-**DevOps & Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" alt="DevOps & Infrastructure" />
+<img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,react,postgres,sqlite,docker,githubactions,linux&theme=dark" alt="Tech Stack" />
 
 </div>
 
