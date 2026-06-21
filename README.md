@@ -23,7 +23,7 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=🛠️+Tech+Stack" width="180" alt="Tech Stack heading" />
 
-<img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,react,pytorch,tensorflow,github,googlecloud,oracle,docker,githubactions,postgres,sqlite,linux,windows&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,react,pytorch,tensorflow,github,googlecloud,docker,githubactions,postgres,sqlite,linux,windows&theme=dark" alt="Tech Stack" />
 
 </div>
 
