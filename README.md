@@ -23,12 +23,9 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=🛠️+Tech+Stack" width="180" alt="Tech Stack heading" />
 
-<img src="https://skillicons.dev/icons?i=github,pytorch,tensorflow,googlecloud,oracle&theme=dark" alt="AI & Cloud" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,googlecloud,oracle,windows&theme=dark" alt="AI & Cloud" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript,react,postgres,sqlite,docker,githubactions,linux&theme=dark" alt="Tech Stack" />
-<br/><br/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace" />
-<img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Windows" />
+<img src="https://skillicons.dev/icons?i=github,python,rust,javascript,typescript,react,postgres,sqlite,docker,githubactions,linux&theme=dark" alt="Tech Stack" />
 
 </div>
 
