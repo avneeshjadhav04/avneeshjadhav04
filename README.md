@@ -6,6 +6,8 @@
 <!-- Typing SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=400&height=40&lines=Building..." alt="Typing SVG" />
 
+<br/><br/>
+
 <!-- Social Badges -->
 <a href="https://github.com/avneeshjadhav04"><img src="https://img.shields.io/badge/GitHub-avneeshjadhav04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/avneeshjadhav"><img src="https://img.shields.io/badge/LinkedIn-avneeshjadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
