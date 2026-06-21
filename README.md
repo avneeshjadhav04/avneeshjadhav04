@@ -23,9 +23,7 @@
 
 ### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=🛠️+Tech+Stack" width="180" alt="Tech Stack heading" />
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,googlecloud,oracle,windows&theme=dark" alt="AI & Cloud" />
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=github,python,rust,javascript,typescript,react,postgres,sqlite,docker,githubactions,linux&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=github,pytorch,tensorflow,googlecloud,oracle,windows,python,rust,javascript,typescript,react,postgres,sqlite,docker,githubactions,linux&theme=dark" alt="Tech Stack" />
 
 </div>
 
