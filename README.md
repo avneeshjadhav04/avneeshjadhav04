@@ -1,36 +1,18 @@
-<div align="center">
-
 Hi, I'm Avneesh.
-
-<br/><br/>
 
 My Background:
 
-<br/>
-
 I have foundations in computer science (Python, JavaScript, Rust, AI, ML, C++, Java, DSA, etc.).
-
-<br/><br/>
 
 Technology has always fascinated me from the start. From opening up toys as a child, to dissecting complex projects these days, it's always interesting to see how things work.
 
-<br/><br/>
-
 In college, theory was good, but there came a point where I shifted from studying text to actually engineering solutions.
-
-<br/><br/>
 
 Which brings me to date. Currently, I'm focused on AI implementation.
 
-<br/><br/>
-
 P.S.
 
-<br/>
-
 Don't just connect, send me what you're building at the moment. I read every message.
-
-<br/><br/>
 
 <!-- Social Badges -->
 <div align="center" style="margin-top: 8px;">
@@ -44,8 +26,6 @@ Don't just connect, send me what you're building at the moment. I read every mes
   <a href="mailto:avneeshjadhav04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Email" />
   </a>
-
-</div>
 
 </div>
 
