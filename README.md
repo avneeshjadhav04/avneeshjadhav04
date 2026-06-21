@@ -23,33 +23,25 @@
 
 **Languages**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://skillicons.dev/icons?i=python,rust,javascript,typescript&theme=dark" alt="Languages" />
 
 <br/><br/>
 
 **Frontend**
 <br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" alt="Frontend" />
 
 <br/><br/>
 
 **Databases**
 <br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://skillicons.dev/icons?i=postgres,sqlite&theme=dark" alt="Databases" />
 
 <br/><br/>
 
 **DevOps & Infrastructure**
 <br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Cloud-3776AB?style=flat-square&logo=cloud&logoColor=white" alt="Cloud" />
+<img src="https://skillicons.dev/icons?i=docker,githubactions,linux&theme=dark" alt="DevOps & Infrastructure" />
 
 </div>
 
