@@ -1,70 +1,94 @@
 <div align="center">
 
-# Hi, I'm Avneesh
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:0ea5e9,100:1f2937&height=180&section=header&text=Hi%2C%20I'm%20Avneesh%20%E2%9A%A1&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Pune%2C%20Maharashtra%2C%20India&descSize=16&descColor=94a3b8&descAlignY=55&animation=fadeIn" width="100%" alt="Header banner" />
 
-**AI Engineer**
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Building+AI-driven+applications;Working+with+Python+%E2%80%A2+Rust+%E2%80%A2+TypeScript;Ship+fast%2C+ship+reliable;Open+to+collaboration" alt="Typing SVG" />
 
-Based in Pune, Maharashtra, India.
-
-</div>
-
----
-
-<div align="center">
-
-### Connect with me
-
-[![GitHub](https://img.shields.io/badge/GitHub-avneeshjadhav04-181717?style=flat-square&logo=github)](https://github.com/avneeshjadhav04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avneeshjadhav-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avneeshjadhav)
-[![Portfolio](https://img.shields.io/badge/Portfolio-avneeshjadhav-46a2f9?style=flat-square&logo=googlechrome&logoColor=white)](https://avneeshjadhav.onrender.com)
-[![Email](https://img.shields.io/badge/Email-avneeshjadhav04@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avneeshjadhav04@gmail.com)
+<!-- Social Badges -->
+<a href="https://github.com/avneeshjadhav04"><img src="https://img.shields.io/badge/GitHub-avneeshjadhav04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/avneeshjadhav"><img src="https://img.shields.io/badge/LinkedIn-avneeshjadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://avneeshjadhav.onrender.com"><img src="https://img.shields.io/badge/Portfolio-avneeshjadhav-46a2f9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:avneeshjadhav04@gmail.com"><img src="https://img.shields.io/badge/Email-avneeshjadhav04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
 ---
 
+<!-- Tech Stack -->
 <div align="center">
 
-### Languages
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=🛠️+Tech+Stack" width="180" alt="Tech Stack heading" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 
-### Frontend
+<br/><br/>
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
 
-### Databases
+<br/><br/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**Databases**
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
 
-### DevOps & Infrastructure
+<br/><br/>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Cloud](https://img.shields.io/badge/Cloud-3776AB?style=flat-square&logo=cloud&logoColor=white)
+**DevOps & Infrastructure**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Cloud-3776AB?style=flat-square&logo=cloud&logoColor=white" alt="Cloud" />
 
 </div>
 
 ---
 
+<!-- GitHub Stats -->
 <div align="center">
 
-### GitHub Stats
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=📊+GitHub+Stats" width="180" alt="GitHub Stats heading" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0" height="170" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0" height="170" alt="Top Languages" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+<br/><br/>
 
-### Trophies & Streak
-
-<img src="https://github-readme-trophies.vercel.app/?username=avneeshjadhav04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshjadhav04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshjadhav04&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9" height="170" alt="GitHub Streak" />
+<img src="https://github-readme-trophies.vercel.app/?username=avneeshjadhav04&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" />
 
 </div>
+
+---
+
+<!-- Activity Graph -->
+<div align="center">
+
+### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=📈+Contribution+Graph" width="240" alt="Contribution Graph heading" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avneeshjadhav04&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=0ea5e9&line=38bdf8&point=ffffff" width="90%" alt="Contribution Graph" />
+
+</div>
+
+---
+
+<!-- Profile Views -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=avneeshjadhav04&style=for-the-badge&color=0ea5e9&label=Profile+Views" alt="Profile Views" />
+
+</div>
+
+<!-- Footer banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:0ea5e9,100:1f2937&height=120&section=footer" width="100%" alt="Footer banner" />
