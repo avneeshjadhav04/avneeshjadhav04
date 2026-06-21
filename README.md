@@ -55,12 +55,5 @@
 
 ---
 
-<!-- Profile Views -->
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=avneeshjadhav04&style=for-the-badge&color=0ea5e9&label=Profile+Views" alt="Profile Views" />
-
-</div>
-
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:0ea5e9,100:1f2937&height=120&section=footer" width="100%" alt="Footer banner" />
