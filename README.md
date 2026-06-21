@@ -30,8 +30,6 @@
 <!-- Tech Stack -->
 <div align="center">
 
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=🛠️+Tech+Stack" width="180" alt="Tech Stack heading" />
-
 <img src="https://skillicons.dev/icons?i=python,rust,js,ts,html,css,react,pytorch,tensorflow,github,googlecloud,docker,githubactions,postgres,sqlite,linux,windows&theme=dark" alt="Tech Stack" />
 
 </div>
@@ -40,8 +38,6 @@
 
 <!-- GitHub Stats -->
 <div align="center">
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=📊+GitHub+Stats" width="180" alt="GitHub Stats heading" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0" height="170" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0" height="170" alt="Top Languages" />
@@ -57,8 +53,6 @@
 
 <!-- Activity Graph -->
 <div align="center">
-
-### <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&color=0EA5E9&center=false&vCenter=false&lines=📈+Contribution+Graph" width="240" alt="Contribution Graph heading" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=avneeshjadhav04&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=0ea5e9&line=38bdf8&point=ffffff" width="90%" alt="Contribution Graph" />
 
