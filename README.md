@@ -49,7 +49,6 @@ Don't just connect, send me what you're building at the moment. I read every mes
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshjadhav04&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9" height="170" alt="GitHub Streak" />
-<img src="https://github-readme-trophies.vercel.app/?username=avneeshjadhav04&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=15" alt="GitHub Trophies" />
 
 </div>
 
