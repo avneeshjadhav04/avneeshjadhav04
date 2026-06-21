@@ -9,10 +9,22 @@
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://github.com/avneeshjadhav04"><img src="https://img.shields.io/badge/GitHub-avneeshjadhav04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/avneeshjadhav"><img src="https://img.shields.io/badge/LinkedIn-avneeshjadhav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://avneeshjadhav.onrender.com"><img src="https://img.shields.io/badge/Portfolio-avneeshjadhav-46a2f9?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:avneeshjadhav04@gmail.com"><img src="https://img.shields.io/badge/Email-avneeshjadhav04@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<div align="center" style="margin-top: 8px;">
+
+  <a href="https://github.com/avneeshjadhav04" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-0ea5e9?style=for-the-badge&logo=github&logoColor=0f172a&labelColor=0f172a&color=0ea5e9" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/avneeshjadhav" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0ea5e9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0f172a&color=0ea5e9" alt="LinkedIn" />
+  </a>
+  <a href="https://avneeshjadhav.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=38bdf8&labelColor=0f172a&color=0ea5e9" alt="Portfolio" />
+  </a>
+  <a href="mailto:avneeshjadhav04@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&logo=gmail&logoColor=D14836&labelColor=0f172a&color=0ea5e9" alt="Email" />
+  </a>
+
+</div>
 
 </div>
 
