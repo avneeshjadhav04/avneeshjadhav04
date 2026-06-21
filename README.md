@@ -23,7 +23,7 @@ Don't just connect, send me what you're building at the moment. I read every mes
   <a href="https://avneeshjadhav.onrender.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Portfolio" />
   </a>
-  <a href="mailto:avneeshjadhav04@gmail.com" target="_blank">
+  <a href="mailto:avneeshjadhav1@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-0ea5e9?style=for-the-badge&labelColor=0f172a&color=0ea5e9" alt="Email" />
   </a>
 
