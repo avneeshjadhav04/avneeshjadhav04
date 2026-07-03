@@ -34,7 +34,7 @@ Don't just connect, send me what you're building at the moment. I read every mes
 <!-- Tech Stack -->
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,rust,js,ts,html,css,cpp,java,react,pytorch,tensorflow,github,googlecloud,docker,githubactions,postgres,sqlite,linux,windows&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,rust,js,ts,html,css,cpp,java,react,nextjs,nodejs,npm,vscode,vercel,git,replit,postman,pytorch,tensorflow,github,googlecloud,docker,githubactions,postgres,sqlite,bash,linux,ubuntu,windows&theme=dark" alt="Tech Stack" />
 
 </div>
 
