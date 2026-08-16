@@ -1,7 +1,5 @@
 Hi, I'm Avneesh.
 
-My Background:
-
 I have foundations in computer science (Python, JavaScript, Rust, AI, ML, C++, Java, DSA, etc.).
 
 Technology has always fascinated me from the start. From opening up toys as a child, to dissecting complex projects these days, it's always interesting to see how things work.
