@@ -43,11 +43,6 @@ Don't just connect, send me what you're building at the moment. I read every mes
 <!-- GitHub Stats -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0f172a&title_color=0ea5e9&icon_color=38bdf8&text_color=e2e8f0" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=avneeshjadhav04&theme=tokyonight&show_icons=true&hide_border=true&layout=compact&bg_color=0f172a&title_color=0ea5e9&text_color=e2e8f0" height="170" alt="Top Languages" />
-
-<br/><br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=avneeshjadhav04&theme=tokyonight&hide_border=true&background=0F172A&ring=0EA5E9&fire=38BDF8&currStreakLabel=0EA5E9" height="170" alt="GitHub Streak" />
 
 </div>
